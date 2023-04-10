@@ -9,4 +9,6 @@ im A glod
 
 im A2 glods
 
+ssh 
+
 pull new glod
