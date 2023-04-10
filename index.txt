@@ -6,3 +6,5 @@ im B glod
 
 
 im A glod
+
+im A2 glods
